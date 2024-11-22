@@ -54,7 +54,7 @@
 		</data>
 		<key>Headers/VitaleSDK.swift</key>
 		<data>
-		enfKWDFLf6yTdVHdg7XlD0MXYfM=
+		t9/W8Prpiz7cfdOJMSHXgiyCaV8=
 		</data>
 		<key>HomeCollectionViewCell.nib</key>
 		<data>
@@ -74,11 +74,11 @@
 		</data>
 		<key>Modules/VitaleHealthSDK.swiftmodule/x86_64-apple-ios-simulator.abi.json</key>
 		<data>
-		TN5VvvDUXKKKddAZWIiUNGxh67A=
+		Z99OA7pf3x2iafZ1ehEMb0MJxzc=
 		</data>
 		<key>Modules/VitaleHealthSDK.swiftmodule/x86_64-apple-ios-simulator.private.swiftinterface</key>
 		<data>
-		aMiwPeU/gePKIK8T0hlv9cVydpk=
+		ePRKX8RX4hLJSGbxR7NLVTGcEj4=
 		</data>
 		<key>Modules/VitaleHealthSDK.swiftmodule/x86_64-apple-ios-simulator.swiftdoc</key>
 		<data>
@@ -86,11 +86,11 @@
 		</data>
 		<key>Modules/VitaleHealthSDK.swiftmodule/x86_64-apple-ios-simulator.swiftinterface</key>
 		<data>
-		aMiwPeU/gePKIK8T0hlv9cVydpk=
+		ePRKX8RX4hLJSGbxR7NLVTGcEj4=
 		</data>
 		<key>Modules/VitaleHealthSDK.swiftmodule/x86_64-apple-ios-simulator.swiftmodule</key>
 		<data>
-		fvfzo58zBRQpqnGewEnl+nC9wm8=
+		bRICyotiMPGlDFndPjkxu4Zn/z4=
 		</data>
 		<key>Modules/module.modulemap</key>
 		<data>
@@ -284,7 +284,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			l7A177i23JJaADirTODmMnVglTwWy1G25rI0EW1Elqk=
+			CHM2w6qBqTBofF9Ar02DO/DzLq5eBNLQMw2VZ/f/9W4=
 			</data>
 		</dict>
 		<key>HomeCollectionViewCell.nib</key>
@@ -312,14 +312,14 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			rf22+LKFAqHWig+D+U+KlW3iTkTMFr53QE311Wi5zFQ=
+			LlaoWMLERBfUL3FxA8B/IWBhq/m0CioSETIFIeMEFtE=
 			</data>
 		</dict>
 		<key>Modules/VitaleHealthSDK.swiftmodule/x86_64-apple-ios-simulator.private.swiftinterface</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			jV+2kMgz4O4CcMYJugNEX2CRnbPpiZNoEevRiWFHLUM=
+			L8jXptKDgbvoO0HXWitYdWGVJcy27vXoTfP2ruhYclc=
 			</data>
 		</dict>
 		<key>Modules/VitaleHealthSDK.swiftmodule/x86_64-apple-ios-simulator.swiftdoc</key>
@@ -333,14 +333,14 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			jV+2kMgz4O4CcMYJugNEX2CRnbPpiZNoEevRiWFHLUM=
+			L8jXptKDgbvoO0HXWitYdWGVJcy27vXoTfP2ruhYclc=
 			</data>
 		</dict>
 		<key>Modules/VitaleHealthSDK.swiftmodule/x86_64-apple-ios-simulator.swiftmodule</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			lAQb70ANMLIxIIImZlXB8xO3nn1gMq0kOllLFR3Jx6w=
+			nQ/vLoJc1149P2nlJdDt9hEytmnfjSmTKuXrYPNsFEY=
 			</data>
 		</dict>
 		<key>Modules/module.modulemap</key>

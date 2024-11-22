@@ -9,7 +9,7 @@ let package = Package(
             targets: ["VitaleHealthLibrary"]),
     ],
     dependencies: [
-        .package(name: "TrainingSDKSPM", url: "https://github.com/miguelmunozfer/TrainingSDKSPM", from: "0.9.1"),
+        .package(name: "TrainingSDKSPM", url: "https://github.com/miguelmunozfer/WorkoutSPM", .branch("main")),
         .package(name: "NutritionSDKPlugin", url: "https://github.com/miguelmunozfer/NutritionSDKPlugin", .branch("main"))
     ],
     targets: [

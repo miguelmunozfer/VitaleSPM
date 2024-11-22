@@ -51,6 +51,10 @@ public class VitaleSDK{
         VitaleSDKUtils.shared.showTraining()
     }
     
+    public func setNutritionCountry(country: Int){
+        SDKBridging.shared.setCountry(country)
+    }
+    
     public func showTodaytraining(){
         WorkoutSDK.sharedInstance.showTodaytraining()
     }

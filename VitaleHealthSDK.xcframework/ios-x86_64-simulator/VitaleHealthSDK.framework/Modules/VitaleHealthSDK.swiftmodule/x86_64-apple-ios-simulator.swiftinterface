@@ -29,6 +29,7 @@ import os
   public func showVitale()
   public func showNutrition()
   public func showTraining()
+  public func setNutritionCountry(country: Swift.Int)
   public func showTodaytraining()
   public func showLibrary()
   public func showCustomWorkouts()

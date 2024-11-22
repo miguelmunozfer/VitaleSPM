@@ -1,13 +1,12 @@
 import Foundation
 import React
-import VitaleSDK
+import VitaleHealthSDK
 
 @objc(VitaleSDKBridge)
 class VitaleSDKBridge: RCTEventEmitter {
 
   override init() {
     super.init()
-    VitaleSDK.shared.setDelegate(self)
   }
 
   override static func requiresMainQueueSetup() -> Bool {
@@ -39,7 +38,13 @@ class VitaleSDKBridge: RCTEventEmitter {
   }
 
   @objc func showNutrition() {
-    VitaleSDK.shared.showNutrition()
+    DispatchQueue.main.async {
+      VitaleSDK.shared.showNutrition()
+    }
+  }
+  
+  @objc func setCountry(_ country: Int) {
+    VitaleSDK.shared.setNutritionCountry(country: country)
   }
 
   @objc func showTraining() {
@@ -70,16 +75,12 @@ class VitaleSDKBridge: RCTEventEmitter {
     VitaleSDK.shared.updatePersonalProfile(
       firstName: profile["firstName"] as? String,
       lastName: profile["lastName"] as? String,
-      gender: UserGender(rawValue: profile["gender"] as? String ?? ""),
+      gender: UserGender(rawValue: profile["gender"] as? Int ?? 0),
       height: profile["height"] as? Int,
       weight: profile["weight"] as? Double,
       birthDate: profile["birthDate"] as? Date
     )
   }
 
-  @objc func setPathologies(_ pathologies: [String]) {
-    let mappedPathologies = pathologies.compactMap { Pathologies(rawValue: $0) }
-    VitaleSDK.shared.setPathologies(mappedPathologies)
-  }
 
 }
