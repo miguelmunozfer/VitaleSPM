@@ -31,10 +31,13 @@ class VitaleSDKBridge: RCTEventEmitter {
 
   @objc func setNavigationTintColor(_ color: String) {
     VitaleSDK.shared.setNavigationTintColor(color: color)
+    
   }
 
   @objc func showVitale() {
-    VitaleSDK.shared.showVitale()
+    DispatchQueue.main.async {
+      VitaleSDK.shared.showVitale()
+    }
   }
 
   @objc func showNutrition() {
@@ -44,31 +47,46 @@ class VitaleSDKBridge: RCTEventEmitter {
   }
   
   @objc func setCountry(_ country: Int) {
-    VitaleSDK.shared.setNutritionCountry(country: country)
+    DispatchQueue.main.async {
+      VitaleSDK.shared.setNutritionCountry(country: country)
+    }
   }
 
   @objc func showTraining() {
-    VitaleSDK.shared.showTraining()
+    DispatchQueue.main.async {
+      VitaleSDK.shared.showTraining()
+    }
   }
 
   @objc func showTodaytraining() {
-    VitaleSDK.shared.showTodaytraining()
+    DispatchQueue.main.async {
+      VitaleSDK.shared.showTodaytraining()
+    }
   }
 
   @objc func showLibrary() {
-    VitaleSDK.shared.showLibrary()
+    DispatchQueue.main.async {
+      VitaleSDK.shared.showLibrary()
+    }
   }
 
   @objc func showCustomWorkouts() {
     VitaleSDK.shared.showCustomWorkouts()
+    DispatchQueue.main.async {
+ 
+    }
   }
 
   @objc func showTimeBasedWorkouts() {
-    VitaleSDK.shared.showTimeBasedWorkouts()
-  }
+    DispatchQueue.main.async {
+      VitaleSDK.shared.showTimeBasedWorkouts()
+    }
+ }
 
   @objc func showProfile() {
-    VitaleSDK.shared.showProfile()
+    DispatchQueue.main.async {
+      VitaleSDK.shared.showProfile()
+    }
   }
 
   @objc func updatePersonalProfile(_ profile: [String: Any]) {
