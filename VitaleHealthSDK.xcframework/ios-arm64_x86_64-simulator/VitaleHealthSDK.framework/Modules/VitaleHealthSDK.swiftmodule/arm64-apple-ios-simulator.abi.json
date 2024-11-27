@@ -3427,49 +3427,49 @@
     {
       "filePath": "\/Users\/mmunozfer\/Documents\/SDKBACK\/SDKBack\/SDKBridging.swift",
       "kind": "StringLiteral",
-      "offset": 1888,
+      "offset": 1829,
       "length": 2,
       "value": "\"\""
     },
     {
       "filePath": "\/Users\/mmunozfer\/Documents\/SDKBACK\/SDKBack\/SDKBridging.swift",
       "kind": "StringLiteral",
-      "offset": 2025,
+      "offset": 1966,
       "length": 2,
       "value": "\"\""
     },
     {
       "filePath": "\/Users\/mmunozfer\/Documents\/SDKBACK\/SDKBack\/SDKBridging.swift",
       "kind": "IntegerLiteral",
-      "offset": 4530,
+      "offset": 4471,
       "length": 1,
       "value": "0"
     },
     {
       "filePath": "\/Users\/mmunozfer\/Documents\/SDKBACK\/SDKBack\/SDKBridging.swift",
       "kind": "IntegerLiteral",
-      "offset": 4605,
+      "offset": 4546,
       "length": 2,
       "value": "70"
     },
     {
       "filePath": "\/Users\/mmunozfer\/Documents\/SDKBACK\/SDKBack\/SDKBridging.swift",
       "kind": "BooleanLiteral",
-      "offset": 4654,
+      "offset": 4595,
       "length": 4,
       "value": "true"
     },
     {
       "filePath": "\/Users\/mmunozfer\/Documents\/SDKBACK\/SDKBack\/SDKBridging.swift",
       "kind": "IntegerLiteral",
-      "offset": 4782,
+      "offset": 4723,
       "length": 1,
       "value": "0"
     },
     {
       "filePath": "\/Users\/mmunozfer\/Documents\/SDKBACK\/SDKBack\/SDKBridging.swift",
       "kind": "IntegerLiteral",
-      "offset": 4857,
+      "offset": 4798,
       "length": 2,
       "value": "70"
     },
