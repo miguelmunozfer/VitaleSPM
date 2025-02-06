@@ -15,7 +15,7 @@ Pod::Spec.new do |spec|
   # Dependencias externas
   spec.dependency 'NutritionSDK', '~> 2.3.0'
   spec.dependency 'WorkoutLib', '~> 1.8.4'
+
   # Configuración de Swift
   spec.swift_version = "5.5"
 end
-
