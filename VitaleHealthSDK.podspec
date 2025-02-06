@@ -4,7 +4,7 @@ Pod::Spec.new do |spec|
   spec.summary      = "VitaleHealthSDK para integración con servicios de salud"
   spec.description  = "Un SDK que proporciona funcionalidades avanzadas para salud y nutrición."
   spec.homepage     = "https://github.com/miguelmunozfer/VitaleSPM"
-  spec.license      = { :type => "MIT", :file => "LICENSE" }
+  spec.license      = { :type => "MIT" }
   spec.author       = { "Miguel Muñoz" => "miguel.munoz@myvitale.com" }
   spec.platform     = :ios, "12.0"
   spec.source       = { :git => "https://github.com/miguelmunozfer/VitaleSPM.git", :tag => "#{spec.version}" }
