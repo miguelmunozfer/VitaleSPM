@@ -2916,119 +2916,119 @@
     {
       "filePath": "\/Users\/mmunozfer\/Documents\/SDKBACK\/Controllers\/GridViewController.swift",
       "kind": "StringLiteral",
-      "offset": 230,
+      "offset": 226,
       "length": 20,
       "value": "\"GridViewController\""
     },
     {
       "filePath": "\/Users\/mmunozfer\/Documents\/SDKBACK\/Controllers\/GridViewController.swift",
       "kind": "StringLiteral",
-      "offset": 833,
+      "offset": 829,
       "length": 24,
       "value": "\"HomeCollectionViewCell\""
     },
     {
       "filePath": "\/Users\/mmunozfer\/Documents\/SDKBACK\/Controllers\/GridViewController.swift",
       "kind": "StringLiteral",
-      "offset": 925,
+      "offset": 921,
       "length": 10,
       "value": "\"homeCell\""
     },
     {
       "filePath": "\/Users\/mmunozfer\/Documents\/SDKBACK\/Controllers\/GridViewController.swift",
       "kind": "FloatLiteral",
-      "offset": 998,
+      "offset": 994,
       "length": 4,
       "value": "20.0"
     },
     {
       "filePath": "\/Users\/mmunozfer\/Documents\/SDKBACK\/Controllers\/GridViewController.swift",
       "kind": "FloatLiteral",
-      "offset": 1010,
+      "offset": 1006,
       "length": 4,
       "value": "20.0"
     },
     {
       "filePath": "\/Users\/mmunozfer\/Documents\/SDKBACK\/Controllers\/GridViewController.swift",
       "kind": "FloatLiteral",
-      "offset": 1024,
+      "offset": 1020,
       "length": 4,
       "value": "20.0"
     },
     {
       "filePath": "\/Users\/mmunozfer\/Documents\/SDKBACK\/Controllers\/GridViewController.swift",
       "kind": "FloatLiteral",
-      "offset": 1037,
+      "offset": 1033,
       "length": 4,
       "value": "20.0"
     },
     {
       "filePath": "\/Users\/mmunozfer\/Documents\/SDKBACK\/Controllers\/GridViewController.swift",
       "kind": "StringLiteral",
-      "offset": 1607,
+      "offset": 1603,
       "length": 8,
       "value": "\"Cerrar\""
     },
     {
       "filePath": "\/Users\/mmunozfer\/Documents\/SDKBACK\/Controllers\/GridViewController.swift",
       "kind": "StringLiteral",
-      "offset": 1628,
+      "offset": 1624,
       "length": 11,
       "value": "\"VitaleSDK\""
     },
     {
       "filePath": "\/Users\/mmunozfer\/Documents\/SDKBACK\/Controllers\/GridViewController.swift",
       "kind": "StringLiteral",
-      "offset": 1685,
+      "offset": 1681,
       "length": 2,
       "value": "\"\""
     },
     {
       "filePath": "\/Users\/mmunozfer\/Documents\/SDKBACK\/Controllers\/GridViewController.swift",
       "kind": "StringLiteral",
-      "offset": 1698,
+      "offset": 1694,
       "length": 2,
       "value": "\"\""
     },
     {
       "filePath": "\/Users\/mmunozfer\/Documents\/SDKBACK\/Controllers\/GridViewController.swift",
       "kind": "StringLiteral",
-      "offset": 1893,
+      "offset": 1889,
       "length": 12,
       "value": "\"bt-profile\""
     },
     {
       "filePath": "\/Users\/mmunozfer\/Documents\/SDKBACK\/Controllers\/GridViewController.swift",
       "kind": "BooleanLiteral",
-      "offset": 2557,
+      "offset": 2553,
       "length": 4,
       "value": "true"
     },
     {
       "filePath": "\/Users\/mmunozfer\/Documents\/SDKBACK\/Controllers\/GridViewController.swift",
       "kind": "BooleanLiteral",
-      "offset": 2691,
+      "offset": 2687,
       "length": 4,
       "value": "true"
     },
     {
       "filePath": "\/Users\/mmunozfer\/Documents\/SDKBACK\/Controllers\/GridViewController.swift",
       "kind": "StringLiteral",
-      "offset": 2771,
+      "offset": 2767,
       "length": 56,
       "value": "\"Se ha producido un error al tratar de cargar el perfil\""
     },
     {
       "filePath": "\/Users\/mmunozfer\/Documents\/SDKBACK\/Controllers\/GridViewController.swift",
       "kind": "StringLiteral",
-      "offset": 2841,
+      "offset": 2837,
       "length": 7,
       "value": "\"Aviso\""
     },
     {
       "filePath": "\/Users\/mmunozfer\/Documents\/SDKBACK\/Controllers\/GridViewController.swift",
       "kind": "BooleanLiteral",
-      "offset": 3009,
+      "offset": 3005,
       "length": 4,
       "value": "true"
     },
@@ -3042,28 +3042,28 @@
     {
       "filePath": "\/Users\/mmunozfer\/Documents\/SDKBACK\/Controllers\/GridViewController.swift",
       "kind": "IntegerLiteral",
-      "offset": 3317,
+      "offset": 3313,
       "length": 1,
       "value": "1"
     },
     {
       "filePath": "\/Users\/mmunozfer\/Documents\/SDKBACK\/Controllers\/GridViewController.swift",
       "kind": "StringLiteral",
-      "offset": 3716,
+      "offset": 3712,
       "length": 10,
       "value": "\"homeCell\""
     },
     {
       "filePath": "\/Users\/mmunozfer\/Documents\/SDKBACK\/Controllers\/GridViewController.swift",
       "kind": "IntegerLiteral",
-      "offset": 4658,
+      "offset": 4654,
       "length": 2,
       "value": "40"
     },
     {
       "filePath": "\/Users\/mmunozfer\/Documents\/SDKBACK\/Controllers\/GridViewController.swift",
       "kind": "FloatLiteral",
-      "offset": 4670,
+      "offset": 4666,
       "length": 5,
       "value": "170.0"
     },
@@ -5135,42 +5135,21 @@
     {
       "filePath": "\/Users\/mmunozfer\/Documents\/SDKBACK\/Controllers\/CustomNavViewController.swift",
       "kind": "StringLiteral",
-      "offset": 1477,
-      "length": 8,
-      "value": "\"ff7450\""
-    },
-    {
-      "filePath": "\/Users\/mmunozfer\/Documents\/SDKBACK\/Controllers\/CustomNavViewController.swift",
-      "kind": "StringLiteral",
-      "offset": 1970,
-      "length": 8,
-      "value": "\"ff7450\""
-    },
-    {
-      "filePath": "\/Users\/mmunozfer\/Documents\/SDKBACK\/Controllers\/CustomNavViewController.swift",
-      "kind": "StringLiteral",
-      "offset": 2104,
-      "length": 8,
-      "value": "\"ff7450\""
-    },
-    {
-      "filePath": "\/Users\/mmunozfer\/Documents\/SDKBACK\/Controllers\/CustomNavViewController.swift",
-      "kind": "StringLiteral",
-      "offset": 2548,
+      "offset": 2815,
       "length": 8,
       "value": "\"Cerrar\""
     },
     {
       "filePath": "\/Users\/mmunozfer\/Documents\/SDKBACK\/Controllers\/CustomNavViewController.swift",
       "kind": "BooleanLiteral",
-      "offset": 2757,
+      "offset": 3024,
       "length": 4,
       "value": "true"
     },
     {
       "filePath": "\/Users\/mmunozfer\/Documents\/SDKBACK\/Controllers\/CustomNavViewController.swift",
       "kind": "StringLiteral",
-      "offset": 2923,
+      "offset": 3190,
       "length": 14,
       "value": "\"isDarkModeOn\""
     },

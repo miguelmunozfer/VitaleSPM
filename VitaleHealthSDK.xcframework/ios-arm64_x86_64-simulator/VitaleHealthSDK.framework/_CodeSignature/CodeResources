@@ -6,7 +6,7 @@
 	<dict>
 		<key>Assets.car</key>
 		<data>
-		6zwWUBJJpDMLNikGi/tX3VmGLWM=
+		1FvKzSFwbKFRBlOI21Obj93Relw=
 		</data>
 		<key>Base.lproj/LaunchScreen.storyboardc/01J-lp-oVM-view-Ze5-6b-2t3.nib</key>
 		<data>
@@ -42,7 +42,7 @@
 		</data>
 		<key>Base.lproj/UserProfileViewController.nib</key>
 		<data>
-		ud7UY8yibOo9gsCqaa/7FMZK6so=
+		EeQQ8SiCd28/2WL6Y3wBtLofqfU=
 		</data>
 		<key>GridViewController.nib</key>
 		<data>
@@ -50,7 +50,7 @@
 		</data>
 		<key>Headers/VitaleHealthSDK-Swift.h</key>
 		<data>
-		sflO6CMyYi00VHqiuewoj1/lkbo=
+		eoUpQfH3Z7nzSOG+2YXRpP5wCME=
 		</data>
 		<key>Headers/VitaleHealthSDK.h</key>
 		<data>
@@ -70,51 +70,51 @@
 		</data>
 		<key>Info.plist</key>
 		<data>
-		N+vGXG3al1Zk/5vzDNSUUUvFq/M=
+		GlUkAA+KXbXv6UIHk73xt6gASzI=
 		</data>
 		<key>LoginViewController.nib</key>
 		<data>
-		EnQN8rgTUMjfjbIsBKg7Cs0nEcs=
+		4lRwQc+FQd92Af3Kca8cfljR9nM=
 		</data>
 		<key>Modules/VitaleHealthSDK.swiftmodule/arm64-apple-ios-simulator.abi.json</key>
 		<data>
-		HnYTUVJnHV82S0Y1wrKVyHkvQhQ=
+		rYSDgnRwcXocXyCCqtvbcIN3R9o=
 		</data>
 		<key>Modules/VitaleHealthSDK.swiftmodule/arm64-apple-ios-simulator.private.swiftinterface</key>
 		<data>
-		JYxfHQhOXvp8qfsbKdONgOu2vIg=
+		Rt5NGHMv7FTXrB2GHC5bf9oMdSI=
 		</data>
 		<key>Modules/VitaleHealthSDK.swiftmodule/arm64-apple-ios-simulator.swiftdoc</key>
 		<data>
-		1mNYOLc3oXQIy8m7Je4fQt0emM8=
+		pf6HB1YZ2kmo4m2Nq3Sns5j38HQ=
 		</data>
 		<key>Modules/VitaleHealthSDK.swiftmodule/arm64-apple-ios-simulator.swiftinterface</key>
 		<data>
-		JYxfHQhOXvp8qfsbKdONgOu2vIg=
+		Rt5NGHMv7FTXrB2GHC5bf9oMdSI=
 		</data>
 		<key>Modules/VitaleHealthSDK.swiftmodule/arm64-apple-ios-simulator.swiftmodule</key>
 		<data>
-		sXDZRJbWnyCCxoXcQ+ns9iESYeA=
+		kN46oHXad1nqxR5dcutbshoOATA=
 		</data>
 		<key>Modules/VitaleHealthSDK.swiftmodule/x86_64-apple-ios-simulator.abi.json</key>
 		<data>
-		HnYTUVJnHV82S0Y1wrKVyHkvQhQ=
+		rYSDgnRwcXocXyCCqtvbcIN3R9o=
 		</data>
 		<key>Modules/VitaleHealthSDK.swiftmodule/x86_64-apple-ios-simulator.private.swiftinterface</key>
 		<data>
-		5P9mzb8T4XQc9YlkeePGNooNHjM=
+		KlMeyC3UmSxzCa6rLY1zJjRfyeY=
 		</data>
 		<key>Modules/VitaleHealthSDK.swiftmodule/x86_64-apple-ios-simulator.swiftdoc</key>
 		<data>
-		RLkWbqRYlpK887U5RkU+Wzc+7nE=
+		hKZAp8Ufy2OCk650KbPF1EJtif4=
 		</data>
 		<key>Modules/VitaleHealthSDK.swiftmodule/x86_64-apple-ios-simulator.swiftinterface</key>
 		<data>
-		5P9mzb8T4XQc9YlkeePGNooNHjM=
+		KlMeyC3UmSxzCa6rLY1zJjRfyeY=
 		</data>
 		<key>Modules/VitaleHealthSDK.swiftmodule/x86_64-apple-ios-simulator.swiftmodule</key>
 		<data>
-		dUdoU27mtIFZ6lZ49h7OWZqXvLg=
+		MYhCMeMgh24/xD2dA+VsGY1NcfY=
 		</data>
 		<key>Modules/module.modulemap</key>
 		<data>
@@ -224,7 +224,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			mhad9zdOTwzGDtwtqnfYdPbFpRt0Qa32AcXgs6RUFcA=
+			FLIso49choI3M9jKqVV4gdNF+S3XIZx7605mXYj6PjI=
 			</data>
 		</dict>
 		<key>Base.lproj/LaunchScreen.storyboardc/01J-lp-oVM-view-Ze5-6b-2t3.nib</key>
@@ -287,7 +287,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			Sb7lK09dg6W0+m33tO8N16gE+yNuLAREp+nwP+QEuKc=
+			yVUIqu68mXqSSEWb2apKCGBe6BBhiNsArU1prUgkkbk=
 			</data>
 		</dict>
 		<key>GridViewController.nib</key>
@@ -301,7 +301,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			C9S96ry72g5RlLFm3MhEW5GtbUoyZjodMj8HGizuIeU=
+			V175TAjpovcHKHT5c3PtOggyEr5MiN/kX1eehC36A4k=
 			</data>
 		</dict>
 		<key>Headers/VitaleHealthSDK.h</key>
@@ -336,77 +336,77 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			kyRMbtEHzjhubxcy9aE1kS1V32Eb4yor6aHLP3eTMcY=
+			BEZzHg3ViwGbASXd3UMotfrpbaf+9H6jnHsKHFQ3tFE=
 			</data>
 		</dict>
 		<key>Modules/VitaleHealthSDK.swiftmodule/arm64-apple-ios-simulator.abi.json</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			iu5Cg9RCJBmAve+qK56VIoj+IbkVtMv1lMD2GCkSbM4=
+			VXwtUi4vG6pwlqNeEVOC1aXy8qWM/35HL1RECYyOJi4=
 			</data>
 		</dict>
 		<key>Modules/VitaleHealthSDK.swiftmodule/arm64-apple-ios-simulator.private.swiftinterface</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			G9IKiYatd+Ap2R41Ss/e8EQONEiz/zFoUZan3iVItrM=
+			cUoLhrRV81Ggeo689ffs68aU8ZPGz9Xun3vgOy7qwkM=
 			</data>
 		</dict>
 		<key>Modules/VitaleHealthSDK.swiftmodule/arm64-apple-ios-simulator.swiftdoc</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			Lcm2INA8ZRaqNC/KfSq3w2fz6p7S2KfenB+KE1zZpr8=
+			eoxdrpMZQlp/i8JUFbUBmfWNN8qwaRnarly1S/4UY88=
 			</data>
 		</dict>
 		<key>Modules/VitaleHealthSDK.swiftmodule/arm64-apple-ios-simulator.swiftinterface</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			G9IKiYatd+Ap2R41Ss/e8EQONEiz/zFoUZan3iVItrM=
+			cUoLhrRV81Ggeo689ffs68aU8ZPGz9Xun3vgOy7qwkM=
 			</data>
 		</dict>
 		<key>Modules/VitaleHealthSDK.swiftmodule/arm64-apple-ios-simulator.swiftmodule</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			Cp/BycOyJYkwOe0izx8mmmmQ8mLwR+kRWqWcT7UKaOo=
+			4/lFA/ej1gXCTTZUNET4in6sPSC+P/CAPoFxUn4x5qk=
 			</data>
 		</dict>
 		<key>Modules/VitaleHealthSDK.swiftmodule/x86_64-apple-ios-simulator.abi.json</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			iu5Cg9RCJBmAve+qK56VIoj+IbkVtMv1lMD2GCkSbM4=
+			VXwtUi4vG6pwlqNeEVOC1aXy8qWM/35HL1RECYyOJi4=
 			</data>
 		</dict>
 		<key>Modules/VitaleHealthSDK.swiftmodule/x86_64-apple-ios-simulator.private.swiftinterface</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			x7yc347Qzp408hw1zKW+Rt5OgsXJRb9Ct6oo24QhLM8=
+			J61AQtxFJAf1p/X+ks93kXZsy8mF6fIbd8oZVE5KtmQ=
 			</data>
 		</dict>
 		<key>Modules/VitaleHealthSDK.swiftmodule/x86_64-apple-ios-simulator.swiftdoc</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			i50bbUZ0oZ8s4cyL8RUd8A8yfCqPvgR+DTxh8KTtp9E=
+			OqQw78+7rTRZUJQ8XCzOtInkiq4ncbanWUB+FkwJwzU=
 			</data>
 		</dict>
 		<key>Modules/VitaleHealthSDK.swiftmodule/x86_64-apple-ios-simulator.swiftinterface</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			x7yc347Qzp408hw1zKW+Rt5OgsXJRb9Ct6oo24QhLM8=
+			J61AQtxFJAf1p/X+ks93kXZsy8mF6fIbd8oZVE5KtmQ=
 			</data>
 		</dict>
 		<key>Modules/VitaleHealthSDK.swiftmodule/x86_64-apple-ios-simulator.swiftmodule</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			fsifEK9iKABRIp0+P5/csWCUs+04/TJUKcUaQ2ALQPo=
+			kqTXJNvenHfKuGAvzE52cZczxWbxdHydxNUUanpVKH4=
 			</data>
 		</dict>
 		<key>Modules/module.modulemap</key>
