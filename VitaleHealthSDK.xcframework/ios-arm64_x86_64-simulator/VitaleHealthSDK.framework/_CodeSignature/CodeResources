@@ -94,7 +94,7 @@
 		</data>
 		<key>Modules/VitaleHealthSDK.swiftmodule/arm64-apple-ios-simulator.swiftmodule</key>
 		<data>
-		kN46oHXad1nqxR5dcutbshoOATA=
+		VdLc8EtqnpiCkyUNqh4M7/QsLWo=
 		</data>
 		<key>Modules/VitaleHealthSDK.swiftmodule/x86_64-apple-ios-simulator.abi.json</key>
 		<data>
@@ -114,7 +114,7 @@
 		</data>
 		<key>Modules/VitaleHealthSDK.swiftmodule/x86_64-apple-ios-simulator.swiftmodule</key>
 		<data>
-		MYhCMeMgh24/xD2dA+VsGY1NcfY=
+		fYaT+F6VVMZkeueuydbL/84urA0=
 		</data>
 		<key>Modules/module.modulemap</key>
 		<data>
@@ -371,7 +371,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			4/lFA/ej1gXCTTZUNET4in6sPSC+P/CAPoFxUn4x5qk=
+			Chr2tps6YyQQl0Vfdek3rRpNtNNPVkQH3RSFFCU0Jag=
 			</data>
 		</dict>
 		<key>Modules/VitaleHealthSDK.swiftmodule/x86_64-apple-ios-simulator.abi.json</key>
@@ -406,7 +406,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			kqTXJNvenHfKuGAvzE52cZczxWbxdHydxNUUanpVKH4=
+			TSgh0Vr8RXS35oam6Z6bBuyT2uDqL4iM7VQVs1Y/GBM=
 			</data>
 		</dict>
 		<key>Modules/module.modulemap</key>

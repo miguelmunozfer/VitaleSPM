@@ -8,7 +8,7 @@
 
 Pod::Spec.new do |s|
   s.name             = 'VitaleHealthXplor'
-  s.version          = '1.0.1'
+  s.version          = '1.0.2'
   s.summary          = 'Intelligent, automatic, comprehensive, adaptive Training System'
 
 # This description is used to generate tags and improve search results.
@@ -20,7 +20,7 @@ Pod::Spec.new do |s|
   s.homepage         = 'https://www.myvitale.com/'
   s.license          = { :type => 'MIT', :file => 'LICENSE' }
   s.author           = { 'Miguel Muñoz' => 'miguel.munoz@myvitale.com' }
-  s.source           = { :git => 'https://github.com/miguelmunozfer/VitaleSPM.git', :tag => "1.0.1" }
+  s.source           = { :git => 'https://github.com/miguelmunozfer/VitaleSPM.git', :tag => "1.0.2" }
   s.resources = ["**/*.lproj", "**/*.strings", "**/*.xib", "**/*.nib", "**/*.png"]
   s.ios.deployment_target = '13.0'
   s.vendored_frameworks = 'VitaleHealthSDK.xcframework'
