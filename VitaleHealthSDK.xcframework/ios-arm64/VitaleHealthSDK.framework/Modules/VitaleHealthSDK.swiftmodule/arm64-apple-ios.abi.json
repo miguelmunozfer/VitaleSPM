@@ -7151,105 +7151,140 @@
     {
       "filePath": "\/Users\/mmunozfer\/Documents\/SDKBACK\/SDKBack\/VitaleSDKUtils.swift",
       "kind": "BooleanLiteral",
-      "offset": 1383,
+      "offset": 1449,
       "length": 4,
       "value": "true"
-    },
-    {
-      "filePath": "\/Users\/mmunozfer\/Documents\/SDKBACK\/SDKBack\/VitaleSDKUtils.swift",
-      "kind": "BooleanLiteral",
-      "offset": 1810,
-      "length": 4,
-      "value": "true"
-    },
-    {
-      "filePath": "\/Users\/mmunozfer\/Documents\/SDKBACK\/SDKBack\/VitaleSDKUtils.swift",
-      "kind": "Array",
-      "offset": 1820,
-      "length": 2,
-      "value": "[]"
     },
     {
       "filePath": "\/Users\/mmunozfer\/Documents\/SDKBACK\/SDKBack\/VitaleSDKUtils.swift",
       "kind": "StringLiteral",
-      "offset": 1876,
+      "offset": 1509,
       "length": 15,
       "value": "\"Entrenamiento\""
     },
     {
       "filePath": "\/Users\/mmunozfer\/Documents\/SDKBACK\/SDKBack\/VitaleSDKUtils.swift",
       "kind": "StringLiteral",
-      "offset": 1904,
+      "offset": 1537,
       "length": 11,
       "value": "\"VitaleSDK\""
     },
     {
       "filePath": "\/Users\/mmunozfer\/Documents\/SDKBACK\/SDKBack\/VitaleSDKUtils.swift",
       "kind": "StringLiteral",
-      "offset": 1961,
+      "offset": 1594,
       "length": 2,
       "value": "\"\""
     },
     {
       "filePath": "\/Users\/mmunozfer\/Documents\/SDKBACK\/SDKBack\/VitaleSDKUtils.swift",
       "kind": "StringLiteral",
-      "offset": 1974,
+      "offset": 1607,
       "length": 2,
       "value": "\"\""
     },
     {
       "filePath": "\/Users\/mmunozfer\/Documents\/SDKBACK\/SDKBack\/VitaleSDKUtils.swift",
       "kind": "BooleanLiteral",
-      "offset": 2233,
+      "offset": 1866,
+      "length": 4,
+      "value": "true"
+    },
+    {
+      "filePath": "\/Users\/mmunozfer\/Documents\/SDKBACK\/SDKBack\/VitaleSDKUtils.swift",
+      "kind": "BooleanLiteral",
+      "offset": 2364,
+      "length": 4,
+      "value": "true"
+    },
+    {
+      "filePath": "\/Users\/mmunozfer\/Documents\/SDKBACK\/SDKBack\/VitaleSDKUtils.swift",
+      "kind": "Array",
+      "offset": 2374,
+      "length": 2,
+      "value": "[]"
+    },
+    {
+      "filePath": "\/Users\/mmunozfer\/Documents\/SDKBACK\/SDKBack\/VitaleSDKUtils.swift",
+      "kind": "StringLiteral",
+      "offset": 2430,
+      "length": 15,
+      "value": "\"Entrenamiento\""
+    },
+    {
+      "filePath": "\/Users\/mmunozfer\/Documents\/SDKBACK\/SDKBack\/VitaleSDKUtils.swift",
+      "kind": "StringLiteral",
+      "offset": 2458,
+      "length": 11,
+      "value": "\"VitaleSDK\""
+    },
+    {
+      "filePath": "\/Users\/mmunozfer\/Documents\/SDKBACK\/SDKBack\/VitaleSDKUtils.swift",
+      "kind": "StringLiteral",
+      "offset": 2515,
+      "length": 2,
+      "value": "\"\""
+    },
+    {
+      "filePath": "\/Users\/mmunozfer\/Documents\/SDKBACK\/SDKBack\/VitaleSDKUtils.swift",
+      "kind": "StringLiteral",
+      "offset": 2528,
+      "length": 2,
+      "value": "\"\""
+    },
+    {
+      "filePath": "\/Users\/mmunozfer\/Documents\/SDKBACK\/SDKBack\/VitaleSDKUtils.swift",
+      "kind": "BooleanLiteral",
+      "offset": 2787,
       "length": 4,
       "value": "true"
     },
     {
       "filePath": "\/Users\/mmunozfer\/Documents\/SDKBACK\/SDKBack\/VitaleSDKUtils.swift",
       "kind": "StringLiteral",
-      "offset": 2488,
+      "offset": 3042,
       "length": 20,
       "value": "\"profileFilledUsers\""
     },
     {
       "filePath": "\/Users\/mmunozfer\/Documents\/SDKBACK\/SDKBack\/VitaleSDKUtils.swift",
       "kind": "StringLiteral",
-      "offset": 2621,
+      "offset": 3175,
       "length": 20,
       "value": "\"profileFilledUsers\""
     },
     {
       "filePath": "\/Users\/mmunozfer\/Documents\/SDKBACK\/SDKBack\/VitaleSDKUtils.swift",
       "kind": "BooleanLiteral",
-      "offset": 3537,
+      "offset": 4091,
       "length": 4,
       "value": "true"
     },
     {
       "filePath": "\/Users\/mmunozfer\/Documents\/SDKBACK\/SDKBack\/VitaleSDKUtils.swift",
       "kind": "StringLiteral",
-      "offset": 4533,
+      "offset": 5087,
       "length": 8,
       "value": "\"60729B\""
     },
     {
       "filePath": "\/Users\/mmunozfer\/Documents\/SDKBACK\/SDKBack\/VitaleSDKUtils.swift",
       "kind": "StringLiteral",
-      "offset": 4911,
+      "offset": 5465,
       "length": 8,
       "value": "\"FFFFFF\""
     },
     {
       "filePath": "\/Users\/mmunozfer\/Documents\/SDKBACK\/SDKBack\/VitaleSDKUtils.swift",
       "kind": "StringLiteral",
-      "offset": 5517,
+      "offset": 6071,
       "length": 20,
       "value": "\"profileFilledUsers\""
     },
     {
       "filePath": "\/Users\/mmunozfer\/Documents\/SDKBACK\/SDKBack\/VitaleSDKUtils.swift",
       "kind": "BooleanLiteral",
-      "offset": 5645,
+      "offset": 6199,
       "length": 5,
       "value": "false"
     },
