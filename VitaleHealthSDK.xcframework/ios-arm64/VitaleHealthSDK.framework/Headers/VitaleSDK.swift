@@ -40,15 +40,21 @@ public class VitaleSDK{
     }
     
     public func showVitale(){
-        VitaleSDKUtils.shared.showVitale()
+        VitaleSDKUtils.shared.checkTermsAndShowAlert {
+            VitaleSDKUtils.shared.showVitale()
+        }
     }
     
     public func showNutrition(){
-        VitaleSDKUtils.shared.showNutrition()
+        VitaleSDKUtils.shared.checkTermsAndShowAlert {
+            VitaleSDKUtils.shared.showNutrition()
+        }
     }
     
     public func showTraining(){
-        VitaleSDKUtils.shared.showTraining()
+        VitaleSDKUtils.shared.checkTermsAndShowAlert {
+            VitaleSDKUtils.shared.showTraining()
+        }
     }
     
     public func setNutritionCountry(country: Int){
@@ -56,26 +62,33 @@ public class VitaleSDK{
     }
     
     public func showTodaytraining(){
-        WorkoutSDK.sharedInstance.showTodaytraining()
+        VitaleSDKUtils.shared.checkTermsAndShowAlert {
+            WorkoutSDK.sharedInstance.showTodaytraining()
+        }
     }
     
     public func showLibrary() {
-        WorkoutSDK.sharedInstance.showLibrary()
-
+        VitaleSDKUtils.shared.checkTermsAndShowAlert {
+            WorkoutSDK.sharedInstance.showLibrary()
+        }
     }
         
     public func showCustomWorkouts() {
-        WorkoutSDK.sharedInstance.showCustomWorkouts()
-
+        VitaleSDKUtils.shared.checkTermsAndShowAlert {
+            WorkoutSDK.sharedInstance.showCustomWorkouts()
+        }
     }
     
     public func showTimeBasedWorkouts() {
-        WorkoutSDK.sharedInstance.showTimeBasedWorkouts()
-
+        VitaleSDKUtils.shared.checkTermsAndShowAlert {
+            WorkoutSDK.sharedInstance.showTimeBasedWorkouts()
+        }
     }
     
     public func showProfile(){
-        VitaleSDKUtils.shared.showProfile()
+        VitaleSDKUtils.shared.checkTermsAndShowAlert {
+            VitaleSDKUtils.shared.showProfile()
+        }
     }
     
     public func setSmallLogo(_ logo: UIImage?){

@@ -58,7 +58,7 @@
 		</data>
 		<key>Headers/VitaleSDK.swift</key>
 		<data>
-		t9/W8Prpiz7cfdOJMSHXgiyCaV8=
+		0IdnRyUs/JBhGwQ/7lXxnRnMo5U=
 		</data>
 		<key>HomeCollectionViewCell.nib</key>
 		<data>
@@ -78,7 +78,7 @@
 		</data>
 		<key>Modules/VitaleHealthSDK.swiftmodule/arm64-apple-ios.abi.json</key>
 		<data>
-		3yavPBwDbNvi9VQ96YcFjfW8xeI=
+		rLcueV9e7mS4bEZ36tYm5HWAKnQ=
 		</data>
 		<key>Modules/VitaleHealthSDK.swiftmodule/arm64-apple-ios.private.swiftinterface</key>
 		<data>
@@ -94,7 +94,7 @@
 		</data>
 		<key>Modules/VitaleHealthSDK.swiftmodule/arm64-apple-ios.swiftmodule</key>
 		<data>
-		s63mw1++HCGoINi9utWQJSmfzKA=
+		8ufUhta+NIjCOUlmaO6HxIhTpx8=
 		</data>
 		<key>Modules/module.modulemap</key>
 		<data>
@@ -129,7 +129,7 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			y8YEXUDNpk+WxxPWEQQjHD6Xy6c=
+			l73+YgmFa9KA0rFoW6uVmkrmBUU=
 			</data>
 			<key>optional</key>
 			<true/>
@@ -147,7 +147,7 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			/6PaEsMimf3SZwxRT7OCTTUYA54=
+			3byjWGo/PCuit5Qv+SjyyDRNtFI=
 			</data>
 			<key>optional</key>
 			<true/>
@@ -183,7 +183,7 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			rVEIKe9Y9MVNL/u0i0l7M+fP/H8=
+			p+kOijrSXWmDVbLgEXLTHpw0P0o=
 			</data>
 			<key>optional</key>
 			<true/>
@@ -295,7 +295,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			CHM2w6qBqTBofF9Ar02DO/DzLq5eBNLQMw2VZ/f/9W4=
+			g7Pv7ic5VgBy4KVQ//iJS4PDHKnzOsxZqRagN5bD28I=
 			</data>
 		</dict>
 		<key>HomeCollectionViewCell.nib</key>
@@ -323,7 +323,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			6tAxQCn8htsS8IgtBWid4vIIu6tI+DGYZf40czq6zyQ=
+			3kbf8T3+xBS8K6hJH09JcdE2JhsNMxm/RZ8zMMRqQtU=
 			</data>
 		</dict>
 		<key>Modules/VitaleHealthSDK.swiftmodule/arm64-apple-ios.private.swiftinterface</key>
@@ -351,7 +351,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			fWckvyex5ixfDMB3iAgwls3IavaDXjm6N9GHUnTEKDI=
+			qV0vGAUHRW09EgES1z5hOo7NwyPhm6hwhUCzfo7at7Q=
 			</data>
 		</dict>
 		<key>Modules/module.modulemap</key>
@@ -402,7 +402,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			N8OvshzOTtZnMg90jc5vpF5vQMFB6mMbWRdKvtLAgzk=
+			IZnQ5NUjtdfj43qOyzv/cVBCXR1rBUA9CvwQh8PMjdQ=
 			</data>
 			<key>optional</key>
 			<true/>
@@ -420,7 +420,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			roP9LT8Bc23U6O4QFdSvLxCqCsd1lRkKLOBz13Km+nU=
+			0JzV63tefE1qKmUdioBxJJfC6ryPkp4GwEXJbl2+bqg=
 			</data>
 			<key>optional</key>
 			<true/>
@@ -456,7 +456,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			rdatZhBR5zFb2h7w7JS9v68TryiPF5eULssxMiN+3n8=
+			8T7P678wnK7avZBrf+qEjgFpkKvz6n7JtH+BNQSUw5s=
 			</data>
 			<key>optional</key>
 			<true/>
