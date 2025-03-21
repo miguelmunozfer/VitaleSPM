@@ -70,7 +70,7 @@
 		</data>
 		<key>Info.plist</key>
 		<data>
-		fNNbRnQcI71Ib3YBPIrdvl7V9NE=
+		GlUkAA+KXbXv6UIHk73xt6gASzI=
 		</data>
 		<key>LoginViewController.nib</key>
 		<data>
@@ -222,10 +222,6 @@
 	<dict>
 		<key>Assets.car</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			1FvKzSFwbKFRBlOI21Obj93Relw=
-			</data>
 			<key>hash2</key>
 			<data>
 			FLIso49choI3M9jKqVV4gdNF+S3XIZx7605mXYj6PjI=
@@ -233,10 +229,6 @@
 		</dict>
 		<key>Base.lproj/LaunchScreen.storyboardc/01J-lp-oVM-view-Ze5-6b-2t3.nib</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			RtNivvseuGzBSN58LqqxVqzwp6s=
-			</data>
 			<key>hash2</key>
 			<data>
 			b/LvOR0hAzOuLRr1eGPYvfF/GcMganIKJooK8aeTk3A=
@@ -244,10 +236,6 @@
 		</dict>
 		<key>Base.lproj/LaunchScreen.storyboardc/Info.plist</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			n2t8gsDpfE6XkhG31p7IQJRxTxU=
-			</data>
 			<key>hash2</key>
 			<data>
 			HyVdXMU7Ux4/KalAao30mpWOK/lEPT4gvYN09wf31cg=
@@ -255,10 +243,6 @@
 		</dict>
 		<key>Base.lproj/LaunchScreen.storyboardc/UIViewController-01J-lp-oVM.nib</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			ZVgM1+KwZcZnwhgaI0F7Bt1ba2c=
-			</data>
 			<key>hash2</key>
 			<data>
 			VPNjf2cf66XxnoLsT0p/tEi7PPwPsYDwiapXH8jwU+I=
@@ -266,10 +250,6 @@
 		</dict>
 		<key>Base.lproj/Main.storyboardc/BYZ-38-t0r-view-rlF-4G-Sdm.nib</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			PGo8iqN05dBnnmsc0QCddwYKVMI=
-			</data>
 			<key>hash2</key>
 			<data>
 			OiuspR5ohMRLqKPJrib/Uy0A6OCTHhH4W4zYDeK+rrA=
@@ -277,10 +257,6 @@
 		</dict>
 		<key>Base.lproj/Main.storyboardc/CumacaHomeViewController.nib</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			vwN/wvzlc++ywTJaULcGIei193E=
-			</data>
 			<key>hash2</key>
 			<data>
 			xqbIZE8XDtjul52PeIkgC+YHS/OLxzaR++cISUkzLxM=
@@ -288,10 +264,6 @@
 		</dict>
 		<key>Base.lproj/Main.storyboardc/GridVC.nib</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			7UyWyxoa7OjvJkOcg0L9KhciWXw=
-			</data>
 			<key>hash2</key>
 			<data>
 			NnOVK+yFMzY+jzh5MdigIO9jcwHAPJ7lDiQjODPfF90=
@@ -299,10 +271,6 @@
 		</dict>
 		<key>Base.lproj/Main.storyboardc/Info.plist</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			wT/An0UQMHWTd4jBElVBdCAlZ5k=
-			</data>
 			<key>hash2</key>
 			<data>
 			VosMqQaIGtrCZQeArhBz68+aG0hAF0avrHp0KgKfcjI=
@@ -310,10 +278,6 @@
 		</dict>
 		<key>Base.lproj/Main.storyboardc/JAN-je-oh0-view-weU-7K-XhE.nib</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			l/x4iNOpMeM0RdP1Uzv/AFTKyQI=
-			</data>
 			<key>hash2</key>
 			<data>
 			UBts0H7BewS3fRFj57NO1Cu0L+Mgi/1QCzgc3QNI8i4=
@@ -321,10 +285,6 @@
 		</dict>
 		<key>Base.lproj/UserProfileViewController.nib</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			EeQQ8SiCd28/2WL6Y3wBtLofqfU=
-			</data>
 			<key>hash2</key>
 			<data>
 			yVUIqu68mXqSSEWb2apKCGBe6BBhiNsArU1prUgkkbk=
@@ -332,10 +292,6 @@
 		</dict>
 		<key>GridViewController.nib</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			i/hhiWbfCwNQK1sZOznuUqXjeTY=
-			</data>
 			<key>hash2</key>
 			<data>
 			P4TAPLW521ed9C1IBUxDG5l7lqAPaWcb35Or5/Pf2pY=
@@ -343,10 +299,6 @@
 		</dict>
 		<key>Headers/VitaleHealthSDK-Swift.h</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			eoUpQfH3Z7nzSOG+2YXRpP5wCME=
-			</data>
 			<key>hash2</key>
 			<data>
 			V175TAjpovcHKHT5c3PtOggyEr5MiN/kX1eehC36A4k=
@@ -354,10 +306,6 @@
 		</dict>
 		<key>Headers/VitaleHealthSDK.h</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			UbmZu2wQxdy4BIDNFQRkljyLtVI=
-			</data>
 			<key>hash2</key>
 			<data>
 			H2E5OQlPbkIrl8ssh8GOyulZx616hAykZUyXFiCZecw=
@@ -365,10 +313,6 @@
 		</dict>
 		<key>Headers/VitaleSDK.swift</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			0IdnRyUs/JBhGwQ/7lXxnRnMo5U=
-			</data>
 			<key>hash2</key>
 			<data>
 			g7Pv7ic5VgBy4KVQ//iJS4PDHKnzOsxZqRagN5bD28I=
@@ -376,10 +320,6 @@
 		</dict>
 		<key>HomeCollectionViewCell.nib</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			1+WQPv1AnOGRxwIXmYzwL3vfQSo=
-			</data>
 			<key>hash2</key>
 			<data>
 			dvLiYLGnKNaSK2zka7kjfQ5U0xu9UA78bWi0NeC6HHM=
@@ -387,10 +327,6 @@
 		</dict>
 		<key>HomeStatCell.nib</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			BwpBGTDe9vBXbM8LdD2XP6k2ON0=
-			</data>
 			<key>hash2</key>
 			<data>
 			X5xRIiAZ0Cl4Ax4hbEQmC/X8d8ZC2IzoO7PwZZzQy2Q=
@@ -398,10 +334,6 @@
 		</dict>
 		<key>LoginViewController.nib</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			4lRwQc+FQd92Af3Kca8cfljR9nM=
-			</data>
 			<key>hash2</key>
 			<data>
 			BEZzHg3ViwGbASXd3UMotfrpbaf+9H6jnHsKHFQ3tFE=
@@ -409,10 +341,6 @@
 		</dict>
 		<key>Modules/VitaleHealthSDK.swiftmodule/arm64-apple-ios-simulator.abi.json</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			M42PAH//B7DFPN5ZgHf2pb7phD8=
-			</data>
 			<key>hash2</key>
 			<data>
 			DxDZVVp0DkZwuGXgt5XmfwhtWpmn62biaYduiBYcPKc=
@@ -420,10 +348,6 @@
 		</dict>
 		<key>Modules/VitaleHealthSDK.swiftmodule/arm64-apple-ios-simulator.private.swiftinterface</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			Rt5NGHMv7FTXrB2GHC5bf9oMdSI=
-			</data>
 			<key>hash2</key>
 			<data>
 			cUoLhrRV81Ggeo689ffs68aU8ZPGz9Xun3vgOy7qwkM=
@@ -431,10 +355,6 @@
 		</dict>
 		<key>Modules/VitaleHealthSDK.swiftmodule/arm64-apple-ios-simulator.swiftdoc</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			pf6HB1YZ2kmo4m2Nq3Sns5j38HQ=
-			</data>
 			<key>hash2</key>
 			<data>
 			eoxdrpMZQlp/i8JUFbUBmfWNN8qwaRnarly1S/4UY88=
@@ -442,10 +362,6 @@
 		</dict>
 		<key>Modules/VitaleHealthSDK.swiftmodule/arm64-apple-ios-simulator.swiftinterface</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			Rt5NGHMv7FTXrB2GHC5bf9oMdSI=
-			</data>
 			<key>hash2</key>
 			<data>
 			cUoLhrRV81Ggeo689ffs68aU8ZPGz9Xun3vgOy7qwkM=
@@ -453,10 +369,6 @@
 		</dict>
 		<key>Modules/VitaleHealthSDK.swiftmodule/arm64-apple-ios-simulator.swiftmodule</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			jobvSE3xIXV23wDU7VYiOdXGpPo=
-			</data>
 			<key>hash2</key>
 			<data>
 			HSvBwNRHWYM3U1eGlfeqb9fG27slTkoIjYaE4aQh9WM=
@@ -464,10 +376,6 @@
 		</dict>
 		<key>Modules/VitaleHealthSDK.swiftmodule/x86_64-apple-ios-simulator.abi.json</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			M42PAH//B7DFPN5ZgHf2pb7phD8=
-			</data>
 			<key>hash2</key>
 			<data>
 			DxDZVVp0DkZwuGXgt5XmfwhtWpmn62biaYduiBYcPKc=
@@ -475,10 +383,6 @@
 		</dict>
 		<key>Modules/VitaleHealthSDK.swiftmodule/x86_64-apple-ios-simulator.private.swiftinterface</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			KlMeyC3UmSxzCa6rLY1zJjRfyeY=
-			</data>
 			<key>hash2</key>
 			<data>
 			J61AQtxFJAf1p/X+ks93kXZsy8mF6fIbd8oZVE5KtmQ=
@@ -486,10 +390,6 @@
 		</dict>
 		<key>Modules/VitaleHealthSDK.swiftmodule/x86_64-apple-ios-simulator.swiftdoc</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			hKZAp8Ufy2OCk650KbPF1EJtif4=
-			</data>
 			<key>hash2</key>
 			<data>
 			OqQw78+7rTRZUJQ8XCzOtInkiq4ncbanWUB+FkwJwzU=
@@ -497,10 +397,6 @@
 		</dict>
 		<key>Modules/VitaleHealthSDK.swiftmodule/x86_64-apple-ios-simulator.swiftinterface</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			KlMeyC3UmSxzCa6rLY1zJjRfyeY=
-			</data>
 			<key>hash2</key>
 			<data>
 			J61AQtxFJAf1p/X+ks93kXZsy8mF6fIbd8oZVE5KtmQ=
@@ -508,10 +404,6 @@
 		</dict>
 		<key>Modules/VitaleHealthSDK.swiftmodule/x86_64-apple-ios-simulator.swiftmodule</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			xly6SXHiqoUjv/yn3b8MccLrpbk=
-			</data>
 			<key>hash2</key>
 			<data>
 			CsEfkO1Rf2i0tzshjHes6cfiacGGwODfb85aOWNQSmE=
@@ -519,10 +411,6 @@
 		</dict>
 		<key>Modules/module.modulemap</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			mwUnnOCYok5mjfaP9bZIUgazkDs=
-			</data>
 			<key>hash2</key>
 			<data>
 			xj4MAOgfqWJAe8YBVPiO7t0Xp5K0caCy6cGgTS0BNSM=
@@ -530,10 +418,6 @@
 		</dict>
 		<key>NutritionSectionCell.nib</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			D1Ejycgf5ruYgpnn+KH3aeS3iEE=
-			</data>
 			<key>hash2</key>
 			<data>
 			QgP0HFBHjCLCSL4oTc7czV95Oj17XVFl3iHCJ0uvDsk=
@@ -541,10 +425,6 @@
 		</dict>
 		<key>PieChartView.nib</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			tyI4pb1nG3LCXN6umXK/V1QzL/M=
-			</data>
 			<key>hash2</key>
 			<data>
 			/v7bCdjl29bi8sAI0XtXE05k/Ak1+TppTiJo8I9nK60=
@@ -552,10 +432,6 @@
 		</dict>
 		<key>SettingsViewController.nib</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			MaTFhLbOmvVArZJwc7S/6kujgFY=
-			</data>
 			<key>hash2</key>
 			<data>
 			AwLO6unt7npA9gEEPJVUVhJHXss96PDsd63/YNW8ZS8=
@@ -563,10 +439,6 @@
 		</dict>
 		<key>WorkoutHomeCell.nib</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			54ZdfSADPSl+9Wq/nC3l90+LIWc=
-			</data>
 			<key>hash2</key>
 			<data>
 			Ar8Xuh2N/oWpl5vDu5JSU3Z6Jy9FA2R01xvsdwuqJwg=
@@ -574,10 +446,6 @@
 		</dict>
 		<key>en.lproj/UserProfileViewController.strings</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			LYpm5OAyqC3/HgPFkFExcokUeW0=
-			</data>
 			<key>hash2</key>
 			<data>
 			i6FcGFDaF46iSev/sNTVe2LUMdNVWTF2Z08hWEjy87g=
@@ -587,10 +455,6 @@
 		</dict>
 		<key>en.lproj/VitaleSDK.strings</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			l73+YgmFa9KA0rFoW6uVmkrmBUU=
-			</data>
 			<key>hash2</key>
 			<data>
 			IZnQ5NUjtdfj43qOyzv/cVBCXR1rBUA9CvwQh8PMjdQ=
@@ -600,10 +464,6 @@
 		</dict>
 		<key>es.lproj/UserProfileViewController.strings</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			9hZa7yHFhhsm9DVmAsOzAv25FY0=
-			</data>
 			<key>hash2</key>
 			<data>
 			DKKqytqJxy4s7emE/qOjsnKY1grWPziYCFNCXaQDZKI=
@@ -613,10 +473,6 @@
 		</dict>
 		<key>es.lproj/VitaleSDK.strings</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			3byjWGo/PCuit5Qv+SjyyDRNtFI=
-			</data>
 			<key>hash2</key>
 			<data>
 			0JzV63tefE1qKmUdioBxJJfC6ryPkp4GwEXJbl2+bqg=
@@ -626,10 +482,6 @@
 		</dict>
 		<key>fr.lproj/LaunchScreen.strings</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			zmV6UqBSo6r1NOz798vd5O4zTBA=
-			</data>
 			<key>hash2</key>
 			<data>
 			kmHsztpgjvF0JW5f3HdMHm49z1M0CcG8OT1JDQHHE/E=
@@ -639,10 +491,6 @@
 		</dict>
 		<key>fr.lproj/Main.strings</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			AXkGVvMYH36quT/iduRCwYorMQ0=
-			</data>
 			<key>hash2</key>
 			<data>
 			kJVrjWt/YKKxOmsxA1sqCgpExNxJnL9t2VsTVj6t/2k=
@@ -652,10 +500,6 @@
 		</dict>
 		<key>fr.lproj/UserProfileViewController.strings</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			7TJ/6T3+sMIDxR8F7ppyTYMm2oY=
-			</data>
 			<key>hash2</key>
 			<data>
 			pHBCcrS8HKR3DTJkz955rSBADBHkrpEBG4EXX4VZ9zA=
@@ -665,10 +509,6 @@
 		</dict>
 		<key>fr.lproj/VitaleSDK.strings</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			p+kOijrSXWmDVbLgEXLTHpw0P0o=
-			</data>
 			<key>hash2</key>
 			<data>
 			8T7P678wnK7avZBrf+qEjgFpkKvz6n7JtH+BNQSUw5s=
@@ -678,10 +518,6 @@
 		</dict>
 		<key>pt.lproj/UserProfileViewController.strings</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			zil9tfkQzfaSVbcE/77L9/DO9/g=
-			</data>
 			<key>hash2</key>
 			<data>
 			AUOSxmZ4dMJTcPt3d31JQfLvdHiwAStkVLnYOuxP7xk=
