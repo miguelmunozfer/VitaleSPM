@@ -25,10 +25,10 @@ import os
     set
   }
   public func start(with user: Swift.String, appID: Swift.String, password: Swift.String)
-  public func setURL(url: Swift.String)
   public func updateProfile(sex: NutritionIASDK.NutritionGender?, height: Swift.Int?, weigth: Swift.Int?, birthDate: Foundation.Date?, activityLevel: Swift.Int, operationDate: Foundation.Date? = nil, generateMenu: Swift.Bool = false, needsWaitingScreens: Swift.Bool = true)
   public func updateProfile(sex: NutritionIASDK.NutritionGender?, height: Swift.Int?, weigth: Swift.Int?, birthDate: Foundation.Date?, generateMenu: Swift.Bool = false, needsWaitingScreens: Swift.Bool = true)
   public func getUserYear() -> Swift.Int?
+  public func setURL(url: Swift.String)
   public func getUserGender() -> NutritionIASDK.NutritionGender?
   public func getUserHeight() -> Swift.Int?
   public func getUserWeight() -> Swift.Int?
@@ -91,8 +91,6 @@ public enum NutritionLanguage : Swift.String, Swift.Codable, Swift.CaseIterable 
   case de
   case ca
   case it
-  case eu
-  case enUS
   case fr
   public init?(rawValue: Swift.String)
   public typealias AllCases = [NutritionIASDK.NutritionLanguage]
@@ -114,7 +112,7 @@ public enum DietType : Swift.Int {
   }
 }
 public enum NutritionUserCountry : Swift.Int, Swift.Codable {
-  case spain, portugal, colombia, uk, usa, germany, italy, cataluna, spainEUS, usa2, france
+  case spain, portugal, colombia, uk, france, usa, germany, italy, cataluna, spainEUS, usa2
   public init?(rawValue: Swift.Int)
   public typealias RawValue = Swift.Int
   public var rawValue: Swift.Int {
