@@ -21,7 +21,6 @@ Pod::Spec.new do |s|
   s.license          = { :type => 'MIT', :file => 'LICENSE' }
   s.author           = { 'Miguel Muñoz' => 'miguel.munoz@myvitale.com' }
   s.source           = { :git => 'https://github.com/miguelmunozfer/VitaleSPM.git', :tag => "1.0.20" }
-  s.resources = ["**/*.lproj", "**/*.strings", "**/*.xib", "**/*.nib", "**/*.png"]
   s.ios.deployment_target = '13.0'
   s.vendored_frameworks = ['TrainingSDK.xcframework', 'WeFitterLib.xcframework', 'VitaleHealthSDK.xcframework', 'NutritionIASDK.xcframework']
   # s.dependency 'NutritionSDKXplor', '~> 1.0.0'
