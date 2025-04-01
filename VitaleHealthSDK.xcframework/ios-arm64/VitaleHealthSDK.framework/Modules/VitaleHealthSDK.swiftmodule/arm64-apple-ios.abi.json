@@ -274,7 +274,7 @@
           {
             "kind": "Function",
             "name": "startSDKWith",
-            "printedName": "startSDKWith(appID:password:userID:url:)",
+            "printedName": "startSDKWith(appID:password:userID:url:userCenter:)",
             "children": [
               {
                 "kind": "TypeNominal",
@@ -313,11 +313,26 @@
                 ],
                 "hasDefaultArg": true,
                 "usr": "s:Sq"
+              },
+              {
+                "kind": "TypeNominal",
+                "name": "Optional",
+                "printedName": "Swift.String?",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "String",
+                    "printedName": "Swift.String",
+                    "usr": "s:SS"
+                  }
+                ],
+                "hasDefaultArg": true,
+                "usr": "s:Sq"
               }
             ],
             "declKind": "Func",
-            "usr": "s:15VitaleHealthSDK0aC0C12startSDKWith5appID8password04userG03urlySS_S3SSgtF",
-            "mangledName": "$s15VitaleHealthSDK0aC0C12startSDKWith5appID8password04userG03urlySS_S3SSgtF",
+            "usr": "s:15VitaleHealthSDK0aC0C12startSDKWith5appID8password04userG03url0I6CenterySS_S3SSgAJtF",
+            "mangledName": "$s15VitaleHealthSDK0aC0C12startSDKWith5appID8password04userG03url0I6CenterySS_S3SSgAJtF",
             "moduleName": "VitaleHealthSDK",
             "declAttributes": [
               "AccessControl"
@@ -370,6 +385,32 @@
             "declKind": "Func",
             "usr": "s:15VitaleHealthSDK0aC0C21setPrimaryButtonColoryySSF",
             "mangledName": "$s15VitaleHealthSDK0aC0C21setPrimaryButtonColoryySSF",
+            "moduleName": "VitaleHealthSDK",
+            "declAttributes": [
+              "AccessControl"
+            ],
+            "funcSelfKind": "NonMutating"
+          },
+          {
+            "kind": "Function",
+            "name": "setUserCenter",
+            "printedName": "setUserCenter(_:)",
+            "children": [
+              {
+                "kind": "TypeNominal",
+                "name": "Void",
+                "printedName": "()"
+              },
+              {
+                "kind": "TypeNominal",
+                "name": "String",
+                "printedName": "Swift.String",
+                "usr": "s:SS"
+              }
+            ],
+            "declKind": "Func",
+            "usr": "s:15VitaleHealthSDK0aC0C13setUserCenteryySSF",
+            "mangledName": "$s15VitaleHealthSDK0aC0C13setUserCenteryySSF",
             "moduleName": "VitaleHealthSDK",
             "declAttributes": [
               "AccessControl"
@@ -3137,21 +3178,21 @@
     {
       "filePath": "\/Users\/mmunozfer\/Documents\/SDKBACK\/SDKBack\/Models.swift",
       "kind": "StringLiteral",
-      "offset": 2223,
+      "offset": 2249,
       "length": 15,
       "value": "\"timezone_type\""
     },
     {
       "filePath": "\/Users\/mmunozfer\/Documents\/SDKBACK\/SDKBack\/Models.swift",
       "kind": "StringLiteral",
-      "offset": 2559,
+      "offset": 2585,
       "length": 28,
       "value": "\"yyyy-MM-dd HH:mm:ss.SSSSSS\""
     },
     {
       "filePath": "\/Users\/mmunozfer\/Documents\/SDKBACK\/SDKBack\/Models.swift",
       "kind": "StringLiteral",
-      "offset": 2634,
+      "offset": 2660,
       "length": 13,
       "value": "\"en_US_POSIX\""
     },

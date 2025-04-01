@@ -19,8 +19,9 @@ public class VitaleSDK{
         self.vitaleSDKDelegate = delegate
     }
     
-    public func startSDKWith(appID: String, password: String, userID: String, url: String? = nil){
-        SDKBridging.shared.startSDKsWithConfig(appID: appID, password: password, userID: userID, url: url)
+    public func startSDKWith(appID: String, password: String, userID: String, url: String? = nil, userCenter: String? = nil){
+        SDKBridging.shared.startSDKsWithConfig(appID: appID, password: password, userID: userID, url: url, userCenter: userCenter)
+        
     }
     
     public func setMainColor(color: String){
@@ -29,6 +30,10 @@ public class VitaleSDK{
     
     public func setPrimaryButtonColor(_ color: String){
         VitaleSDKUtils.shared.setPrimaryButtonColor(color)
+    }
+    
+    public func setUserCenter(_ center: String){
+        SDKBridging.shared.setUserCenter(center: center)
     }
     
     public func setNavigationBarColor(color: String){
