@@ -13,8 +13,8 @@ class VitaleSDKBridge: RCTEventEmitter {
     return true
   }
 
-  @objc func startSDK(_ appID: String, password: String, userID: String, url: String?) {
-    VitaleSDK.shared.startSDKWith(appID: appID, password: password, userID: userID, url: url)
+  @objc func startSDK(_ appID: String, password: String, userID: String, url: String?, userCenter: String?) {
+    VitaleSDK.shared.startSDKWith(appID: appID, password: password, userID: userID, url: url, userCenter: userCenter)
   }
 
   @objc func setMainColor(_ color: String) {

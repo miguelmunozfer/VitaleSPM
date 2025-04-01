@@ -6,7 +6,8 @@
 RCT_EXTERN_METHOD(startSDK:(NSString *)appID
                   password:(NSString *)password
                   userID:(NSString *)userID
-                  url:(NSString *)url)
+                  url:(NSString *)url
+                  userCenter:(NSString *)userCenter)
 
 RCT_EXTERN_METHOD(setMainColor:(NSString *)color)
 RCT_EXTERN_METHOD(setPrimaryButtonColor:(NSString *)color)
