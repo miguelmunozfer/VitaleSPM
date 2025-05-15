@@ -351,13 +351,6 @@
       },
       {
         "kind": "Import",
-        "name": "WeFitterLib",
-        "printedName": "WeFitterLib",
-        "declKind": "Import",
-        "moduleName": "TrainingSDK"
-      },
-      {
-        "kind": "Import",
         "name": "UIKit",
         "printedName": "UIKit",
         "declKind": "Import",
@@ -3369,13 +3362,6 @@
       },
       {
         "kind": "Import",
-        "name": "WeFitterLib",
-        "printedName": "WeFitterLib",
-        "declKind": "Import",
-        "moduleName": "TrainingSDK"
-      },
-      {
-        "kind": "Import",
         "name": "UIKit",
         "printedName": "UIKit",
         "declKind": "Import",
@@ -4702,13 +4688,6 @@
       },
       {
         "kind": "Import",
-        "name": "WeFitterLib",
-        "printedName": "WeFitterLib",
-        "declKind": "Import",
-        "moduleName": "TrainingSDK"
-      },
-      {
-        "kind": "Import",
         "name": "UIKit",
         "printedName": "UIKit",
         "declKind": "Import",
@@ -4932,13 +4911,6 @@
         "kind": "Import",
         "name": "SafariServices",
         "printedName": "SafariServices",
-        "declKind": "Import",
-        "moduleName": "TrainingSDK"
-      },
-      {
-        "kind": "Import",
-        "name": "WeFitterLib",
-        "printedName": "WeFitterLib",
         "declKind": "Import",
         "moduleName": "TrainingSDK"
       },
@@ -7807,13 +7779,6 @@
       },
       {
         "kind": "Import",
-        "name": "WeFitterLib",
-        "printedName": "WeFitterLib",
-        "declKind": "Import",
-        "moduleName": "TrainingSDK"
-      },
-      {
-        "kind": "Import",
         "name": "Foundation",
         "printedName": "Foundation",
         "declKind": "Import",
@@ -7821,13 +7786,6 @@
         "declAttributes": [
           "RawDocComment"
         ]
-      },
-      {
-        "kind": "Import",
-        "name": "WeFitterLib",
-        "printedName": "WeFitterLib",
-        "declKind": "Import",
-        "moduleName": "TrainingSDK"
       },
       {
         "kind": "Import",
@@ -12221,42 +12179,42 @@
     {
       "filePath": "\/Users\/mmunozfer\/Documents\/TrainingSDKV2CodeSPM\/TrainingSDKCode\/SDKCode\/TrainingAuth\/TrainingAuth.swift",
       "kind": "BooleanLiteral",
-      "offset": 327,
+      "offset": 329,
       "length": 4,
       "value": "true"
     },
     {
       "filePath": "\/Users\/mmunozfer\/Documents\/TrainingSDKV2CodeSPM\/TrainingSDKCode\/SDKCode\/TrainingAuth\/TrainingAuth.swift",
       "kind": "StringLiteral",
-      "offset": 367,
+      "offset": 369,
       "length": 2,
       "value": "\"\""
     },
     {
       "filePath": "\/Users\/mmunozfer\/Documents\/TrainingSDKV2CodeSPM\/TrainingSDKCode\/SDKCode\/TrainingAuth\/TrainingAuth.swift",
       "kind": "StringLiteral",
-      "offset": 405,
+      "offset": 407,
       "length": 2,
       "value": "\"\""
     },
     {
       "filePath": "\/Users\/mmunozfer\/Documents\/TrainingSDKV2CodeSPM\/TrainingSDKCode\/SDKCode\/TrainingAuth\/TrainingAuth.swift",
       "kind": "StringLiteral",
-      "offset": 447,
+      "offset": 449,
       "length": 2,
       "value": "\"\""
     },
     {
       "filePath": "\/Users\/mmunozfer\/Documents\/TrainingSDKV2CodeSPM\/TrainingSDKCode\/SDKCode\/TrainingAuth\/TrainingAuth.swift",
       "kind": "IntegerLiteral",
-      "offset": 2623,
+      "offset": 2631,
       "length": 1,
       "value": "1"
     },
     {
       "filePath": "\/Users\/mmunozfer\/Documents\/TrainingSDKV2CodeSPM\/TrainingSDKCode\/SDKCode\/TrainingAuth\/TrainingAuth.swift",
       "kind": "BooleanLiteral",
-      "offset": 2650,
+      "offset": 2658,
       "length": 5,
       "value": "false"
     },
@@ -12711,7 +12669,7 @@
     {
       "filePath": "\/Users\/mmunozfer\/Documents\/TrainingSDKV2CodeSPM\/TrainingSDKCode\/SDKCode\/Wefitter\/WefitterProfileViewController.swift",
       "kind": "StringLiteral",
-      "offset": 550,
+      "offset": 553,
       "length": 2,
       "value": "\"\""
     },
@@ -15448,7 +15406,7 @@
     {
       "filePath": "\/Users\/mmunozfer\/Documents\/TrainingSDKV2CodeSPM\/TrainingSDKCode\/SDKCode\/Wefitter\/WefitterViewController.swift",
       "kind": "StringLiteral",
-      "offset": 515,
+      "offset": 496,
       "length": 2,
       "value": "\"\""
     },
@@ -16106,35 +16064,35 @@
     {
       "filePath": "\/Users\/mmunozfer\/Documents\/TrainingSDKV2CodeSPM\/TrainingSDKCode\/SDKCode\/Wefitter\/WefitterUtils.swift",
       "kind": "BooleanLiteral",
-      "offset": 352,
+      "offset": 355,
       "length": 5,
       "value": "false"
     },
     {
       "filePath": "\/Users\/mmunozfer\/Documents\/TrainingSDKV2CodeSPM\/TrainingSDKCode\/SDKCode\/Wefitter\/WefitterUtils.swift",
       "kind": "StringLiteral",
-      "offset": 424,
+      "offset": 427,
       "length": 14,
       "value": "\"display_name\""
     },
     {
       "filePath": "\/Users\/mmunozfer\/Documents\/TrainingSDKV2CodeSPM\/TrainingSDKCode\/SDKCode\/Wefitter\/WefitterUtils.swift",
       "kind": "StringLiteral",
-      "offset": 481,
+      "offset": 484,
       "length": 11,
       "value": "\"connected\""
     },
     {
       "filePath": "\/Users\/mmunozfer\/Documents\/TrainingSDKV2CodeSPM\/TrainingSDKCode\/SDKCode\/Wefitter\/WefitterUtils.swift",
       "kind": "StringLiteral",
-      "offset": 513,
+      "offset": 516,
       "length": 17,
       "value": "\"connection_slug\""
     },
     {
       "filePath": "\/Users\/mmunozfer\/Documents\/TrainingSDKV2CodeSPM\/TrainingSDKCode\/SDKCode\/Wefitter\/WefitterUtils.swift",
       "kind": "StringLiteral",
-      "offset": 551,
+      "offset": 554,
       "length": 5,
       "value": "\"img\""
     },

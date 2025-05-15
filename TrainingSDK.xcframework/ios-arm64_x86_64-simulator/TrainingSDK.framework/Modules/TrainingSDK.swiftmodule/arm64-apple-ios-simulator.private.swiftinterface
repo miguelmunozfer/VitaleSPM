@@ -14,7 +14,6 @@ import Social
 import Swift
 import SwiftUI
 import UIKit
-import WeFitterLib
 import WebKit
 import _Concurrency
 import _StringProcessing
